@@ -1,2 +1,2 @@
 # silliconvalley
-Preparation excercises for interviews at Silicon Valley's Companies
+Preparation exercises for Silicon Valley interviews.

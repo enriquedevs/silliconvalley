@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>siliconvalley</name>
-  <url>http://maven.apache.org</url>
+  <description>preparation exercises for silicon valley interviews</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
