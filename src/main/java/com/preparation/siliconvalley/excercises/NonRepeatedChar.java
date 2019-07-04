@@ -1,5 +1,7 @@
 package com.preparation.siliconvalley.excercises;
 
+import java.util.HashMap;
+
 public class NonRepeatedChar {
 	public static void main(String[] args) {
         // NOTE: The following input values will be used for testing your solution.
